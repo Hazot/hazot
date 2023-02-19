@@ -14,7 +14,7 @@ My name is Kevin and I'm a master student in computer Science from Canada. Here'
 
 <h3> 🎓 Education: </h3>
 
-- MSc. Computer Science (Artificial Intelligence) with Thesis @ Udem [2022-2024]
+- MSc. Computer Science (Artificial Intelligence - Thesis-based) @ Udem [2022-2024]
 - BSc. Computer Science and Mathematics @ UdeM [2019-2022]
 
 📫 Feel free to reach me by email or Linkedin! kevinlessard74@gmail.com | https://www.linkedin.com/in/kevin-lessard-72b4041a2/
