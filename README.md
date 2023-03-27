@@ -8,7 +8,7 @@ My name is Kevin and I'm a master student in computer Science from Canada. Here'
 - ⚡ Exploring new technologies and developing software solutions.
 - 🎓 Studying the intersection of Computer Science and Artifiicial Intelligence.
 
-<h3> 👯 Work expetience: </h3>
+<h3> 👯 Work experience: </h3>
 
 - **Machine Learning Engineering intern at CAE Inc.** [Montreal, Quebec, Canada, Summer 2022]
 
