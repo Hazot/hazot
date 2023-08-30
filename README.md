@@ -4,9 +4,7 @@ My name is Kevin and I'm a master student in computer Science from Canada. Here'
 
 <h3> 🌱 About me: </h3>
 
-- 🔭 I'm currently interested in NLP, Robotics and Deep Learning and its alternatives.
-- ⚡ Exploring new technologies and developing software solutions.
-- 🎓 Studying the intersection of Computer Science and Artifiicial Intelligence.
+- 🔭 I'm currently interested in NLP, Knowledge Graphs and Robotics.
 
 <h3> 👯 Work experience: </h3>
 
