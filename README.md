@@ -4,7 +4,7 @@ My name is Kevin and I'm a master student in computer Science from Canada. Here'
 
 <h3> 🌱 About me: </h3>
 
-- 🔭 I'm currently interested in NLP, Knowledge Graphs and Robotics.
+- 🔭 I'm currently interested in NLP, Knowledge Graphs, Knowledge-Infused Learning and Robotics.
 
 <h3> 👯 Work experience: </h3>
 
