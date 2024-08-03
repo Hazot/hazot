@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kevin and I'm a master student in computer Science from Canada. Here's some info about me!
+My name is Kevin and I'm a master student in computer science from Canada. Here's some info about me!
 
 <h3> 🌱 About me: </h3>
 
