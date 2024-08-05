@@ -4,10 +4,11 @@ My name is Kevin and I'm a master student in computer science from Canada. Here'
 
 <h3> 🌱 About me: </h3>
 
-- 🔭 I'm currently interested about RAG, NLP, Reinforcement Learning and Robotics.
+- 🔭 I'm currently interested about Reinforcement Learning and Robotics, RAG and NLP.
 
 <h3> 👯 Work experience: </h3>
 
+- **Teaching Assistant - Algorithms at UdeM** [Montreal, Quebec, Canada, Winter 2024]
 - **Machine Learning Engineering intern at CAE Inc.** [Montreal, Quebec, Canada, Summer 2022]
 
 <h3> 🎓 Education: </h3>
