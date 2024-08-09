@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Hazot/hazot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kevin and I'm a master student in computer science from Canada. Here's some info about me!
 
-Here are some ideas to get you started:
+<h3> 🌱 About me: </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently interested about Reinforcement Learning and Robotics, RAG and NLP.
+
+<h3> 👯 Work experience: </h3>
+
+- **Teaching Assistant - Algorithms at UdeM** [Montreal, Quebec, Canada, Winter 2024]
+- **Machine Learning Engineering intern at CAE Inc.** [Montreal, Quebec, Canada, Summer 2022]
+
+<h3> 🎓 Education: </h3>
+
+- MSc. Machine Learning @ Mila, Quebec AI Institute [2022-2025]
+- BSc. Computer Science and Mathematics @ UdeM [2019-2022]
+
+📫 Feel free to reach me on Linkedin ! https://www.linkedin.com/in/kevin-lessard
