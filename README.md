@@ -8,7 +8,7 @@ My name is Kevin and I'm a master student in computer science from Canada. Here'
 
 <h3> 👯 Work experience: </h3>
 
-- **AI Research Developer Intern @ Croesus**         🏦 [Montreal, Quebec, Canada, Winter 2025]
+- **AI Research Developer Intern @ Croesus**         🏦 [Laval, Quebec, Canada, Winter 2025]
 - **Teaching Assistant - Algorithms at UdeM**        🧑‍🏫️ [Montreal, Quebec, Canada, Winter 2024]
 - **Machine Learning Engineering intern @ CAE Inc.** ✈️ [Montreal, Quebec, Canada, Summer 2022]
 
